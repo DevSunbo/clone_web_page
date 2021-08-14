@@ -1,0 +1,20 @@
+
+.inner{
+    width: 980px;
+    margin: auto;
+}
+
+/*section--header*/
+.section__header .inner{
+    display: flex;
+}
+
+.section__header .logo{
+    background-color: red;
+    padding: 10px;
+}
+.section__header .menu-group ul{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}

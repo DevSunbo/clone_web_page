@@ -18,3 +18,6 @@
     align-items: center;
     padding: 10px;
 }
+.section__header .login-group {
+    align-items: flex-end;
+}
